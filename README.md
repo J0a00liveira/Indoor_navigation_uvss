@@ -11,9 +11,9 @@
   
  > sofrerá alterações durante o desenvolvimento e andamento do projeto
 
-[![languages](https://skillicons.dev/icons?i=react,js,git,vscode&perline=4)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=react,js,git,vscode,androidstudio&perline=10)](https://skillicons.dev)
 <!-- fonte: https://github.com/tandpfun/skill-icons-->
-<img src="https://yt3.googleusercontent.com/ytc/AIdro_lDntM6T5_lOEzC_pbfiLgRANkzNSGNgEhY8e2fWw=s900-c-k-c0x00ffffff-no-rj" height="45px" alt="expo">
+<!--<img src="https://yt3.googleusercontent.com/ytc/AIdro_lDntM6T5_lOEzC_pbfiLgRANkzNSGNgEhY8e2fWw=s900-c-k-c0x00ffffff-no-rj" height="45px" alt="expo">-->
 </details>
 
 
