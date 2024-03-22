@@ -4,15 +4,16 @@
 
 ### OVERVIEW :bar_chart:
 
-<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/J0a00liveira/Indoor_navigation_uvss" /> <img alt="" src="https://img.shields.io/github/repo-size/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/J0a00liveira/Indoor_navigation_uvss" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/J0a00liveira/Indoor_navigation_uvss" /> <img alt="" src="https://img.shields.io/github/repo-size/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/J0a00liveira/Indoor_navigation_uvss" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/J0a00liveira/Indoor_navigation_uvss" /> <img alt="Github License" src="https://img.shields.io/github/license/J0a00liveira/Indoor_navigation_uvss" />
 
 <details>
   <summary>Linguagens e ferramentas</summary> <br>
   
  > sofrerá alterações durante o desenvolvimento e andamento do projeto
-  
-[![languages](https://skillicons.dev/icons?i=react,css,git,figma,androidstudio&perline=3)](https://skillicons.dev)
-<!-- fonte: https://github.com/tandpfun/skill-icons--> <br>
+
+[![languages](https://skillicons.dev/icons?i=react,js,git,vscode&perline=4)](https://skillicons.dev)
+<!-- fonte: https://github.com/tandpfun/skill-icons-->
+<img src="https://yt3.googleusercontent.com/ytc/AIdro_lDntM6T5_lOEzC_pbfiLgRANkzNSGNgEhY8e2fWw=s900-c-k-c0x00ffffff-no-rj" height="45px" alt="expo">
 </details>
 
 
@@ -25,3 +26,5 @@
 <hr><br>
 
 :construction: README em contrução :construction:
+
+> codigo do projeto disponivel na pasta Project/indoor-navigation
